@@ -1,6 +1,4 @@
 import Hero from "@/components/hero";
-// import Navbar from "@/components/navbar";
-import Image from "next/image";
 import About from "@/components/about";
 import Skills from "@/components/skills"
 import Projects from "@/components/projects"

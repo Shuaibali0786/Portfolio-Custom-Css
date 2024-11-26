@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { FaFacebookF, FaYoutube , FaTwitter, FaInstagram,  FaGithub, FaLinkedin, FaTiktok} from "react-icons/fa";
+import { FaYoutube , FaTwitter, FaInstagram,  FaGithub, FaLinkedin, FaTiktok} from "react-icons/fa";
 import Link from 'next/link';
 
 const Hero = () => {
