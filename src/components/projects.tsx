@@ -11,32 +11,62 @@ const Projects = () => {
 <div className="box-container">
 
 <div className="box">
-    <img src="/2atm.jpeg" alt="" />
+<Image
+            src="/4curancy.jpeg"
+            alt="Currency Conversion Project"
+            width={300}
+            height={200} 
+          />
     <a href="#"><button>view details</button></a>
 </div>
 
 <div className="box">
-    <img src="/2student.jpeg" alt="" />
+<Image
+            src="/4curancy.jpeg"
+            alt="Currency Conversion Project"
+            width={300} 
+            height={200}
+          />
     <a href="#"><button>view details</button></a>
 </div>
 
 <div className="box">
-   <img src="/4curancy.jpeg" alt="" />
+<Image
+            src="/4curancy.jpeg"
+            alt="Currency Conversion Project"
+            width={300} 
+            height={200} 
+          />
     <a href="#"><button>view details</button></a>
 </div>
 
 <div className="box">
-  <img src="/5todo.jpeg" alt="" />
+<Image
+            src="/4curancy.jpeg"
+            alt="Currency Conversion Project"
+            width={300} 
+            height={200} 
+          />
     <a href="#"><button>view details</button></a>
 </div>
 
 <div className="box">
-    <img src="/amazon-pic.jpeg" alt="" />
+<Image
+            src="/4curancy.jpeg"
+            alt="Currency Conversion Project"
+            width={300} 
+            height={200} 
+          />
     <a href="#"><button>view details</button></a>
 </div>
 
 <div className="box">
-  <img src="/login.jpeg" alt="" />
+<Image
+            src="/4curancy.jpeg"
+            alt="Currency Conversion Project"
+            width={300} 
+            height={200}
+          />
     <a href="#"><button>view details</button></a>
 </div>
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebookF, FaYoutube , FaTwitter, FaInstagram,  FaGithub, FaLinkedin, FaTiktok} from "react-icons/fa";
+import {   FaTwitter, FaInstagram,  FaGithub, FaLinkedin, FaTiktok} from "react-icons/fa";
 import Link from 'next/link';
 
 const Contact = () => {
@@ -8,7 +8,7 @@ const Contact = () => {
       <>
         <section id="section-wrapper">
           <div className="box-wrapper">
-            {/* Contact Information */}
+       
             <div className="info-wrap">
               <h2 className="info-title">Contact Information</h2>
               <h3 className="info-sub-title">
@@ -16,16 +16,16 @@ const Contact = () => {
               </h3>
               <ul className="info-details">
                 <li>
-                  {/* <i className="fas fa-phone-alt"></i> */}
+                
                   <span>Phone:</span> <a href="tel:+1235235598">+0000 00000</a>
                 </li>
                 <li>
-                  {/* <i className="fas fa-paper-plane"></i> */}
+              
                   <span>Email:</span>{' '}
                   <a href="mailto:shuaibalibat@gmail.com">shuaibalibat@gmail.com</a>
                 </li>
                 <li>
-                  {/* <i className="fas fa-globe"></i> */}
+                 
                   <span>Website:</span> <a href="#">yoursite.com</a>
                 </li>
               </ul>

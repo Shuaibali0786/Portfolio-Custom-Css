@@ -1,6 +1,7 @@
-import React from 'react';
-import {FaYoutube , FaTwitter, FaInstagram,  FaGithub, FaLinkedin, FaTiktok} from "react-icons/fa";
-import Link from 'next/link';
+
+import Link from "next/link";
+import {FaTwitter, FaInstagram,  FaGithub, FaLinkedin, FaTiktok} from "react-icons/fa";
+
 
 const Contact = () => {
   return (

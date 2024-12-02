@@ -1,4 +1,6 @@
 import React from 'react'
+import Image from 'next/image'
+
 
 
 const About = () => {
@@ -11,9 +13,13 @@ const About = () => {
 <div className="wrapper">
 
 <div className="image">
-    <img src="/pic2.jpg" alt="" />
-    
-</div>
+          <Image
+            src="/pic2.jpg" 
+            alt="My profile picture"
+            width={300} 
+            height={300} 
+          />
+        </div>
 
 <div className="content">
     <h3>My Name Is Shuaib</h3>
